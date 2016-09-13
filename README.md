@@ -5,3 +5,5 @@ Team members: Linda Xia, Raunak Gupta, Stephen He.
 Tools used: Swift 2, Sketch 3, Foursquare API, Apple Mapkit and Lyft API. 
 We recently received a grant from the 1517 Fund, a venture capitalist fund for young founders, to continue development on this project. 
 
+
+Check out Oyster's YouTube demo here: https://www.youtube.com/watch?v=8_xRG5imLio. 
